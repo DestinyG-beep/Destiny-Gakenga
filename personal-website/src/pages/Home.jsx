@@ -18,12 +18,9 @@ export default function Home() {
         <p className="text-lg md:text-xl text-gray-600">
           Junior Full-Stack Developer | React & Flask Enthusiast
         </p>
-        <a
-          href="/portfolio"
-          className="mt-6 inline-block bg-blue-600 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-700 transition font-medium"
-        >
-          View My Work
-        </a>
+        <p className="mt-4 text-gray-700">
+          Passionate about building innovative web applications that solve real-world problems. I thrive in collaborative environments and am always eager to learn new technologies.
+        </p>
       </div>
     </section>
   );
