@@ -4,7 +4,7 @@ export default function Home() {
       {/* Profile Image */}
       <div className="flex-shrink-0 mb-8 md:mb-0 md:mr-12">
         <img
-          src="src/assets/profile (2).JPG"
+          src="https://res.cloudinary.com/dyrayvgch/image/upload/v1755639004/profile_2_zhfqpc.jpg"
           alt="Profile"
           className="w-40 h-40 md:w-56 md:h-56 object-cover rounded-full shadow-lg border-4 border-blue-600"
         />
