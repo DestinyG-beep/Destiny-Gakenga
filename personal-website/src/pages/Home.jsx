@@ -1,3 +1,4 @@
+// Home.jsx
 export default function Home() {
   return (
     <section className="flex flex-col md:flex-row items-center justify-center min-h-screen bg-gradient-to-br from-blue-50 to-gray-100 px-6 py-12">
@@ -19,7 +20,10 @@ export default function Home() {
           Junior Full-Stack Developer | React & Flask Enthusiast
         </p>
         <p className="mt-4 text-gray-700">
-          Passionate about building innovative web applications that solve real-world problems. I thrive in collaborative environments and am always eager to learn new technologies.
+          Passionate about building innovative web applications that solve
+          real-world problems, especially in education and governance. I thrive
+          in collaborative environments and am always eager to learn new
+          technologies.
         </p>
       </div>
     </section>
