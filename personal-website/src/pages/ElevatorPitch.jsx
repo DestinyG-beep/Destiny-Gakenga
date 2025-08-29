@@ -8,7 +8,7 @@ export default function ElevatorPitch() {
         <div className="relative w-full aspect-video mb-6">
           <iframe
             className="w-full h-full rounded-lg"
-            src="https://youtube.com/shorts/XCTEOcfEOBg"
+            src="https://www.youtube.com/embed/XCTEOcfEOBg"
             title="Elevator Pitch Video"
             frameBorder="0"
             loading="lazy"
